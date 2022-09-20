@@ -1,2 +1,2 @@
 # robot-gladiators
-Game development as part of a simulated hackaton. 
+This is a game development as part of a simulated hackaton. The application was made using JavaScript.
