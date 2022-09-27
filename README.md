@@ -5,7 +5,7 @@ This is a game development as part of a simulated hackaton. The application was 
 - Please click on the following linnk to access the application: https://malickbax.github.io/robot-gladiators/
 
 ## Usage
-Open the deployed URL above and follow prompts
+- Open the deployed URL above and follow prompts
 
 ## Tests
 - No test is required. Application is deployed and ready for usage.
