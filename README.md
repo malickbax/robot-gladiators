@@ -1,10 +1,14 @@
 # Robot Gladiators Game
-This is a game development as part of a simulated hackaton. The application was made mainly using JavaScript.
+This is a game development as part of a simulated hackaton. The application was made to show the various possibilities of using JavaScript. 
+
+## Deployed URL
+- Please click on the following linnk to access the application: https://malickbax.github.io/robot-gladiators/
 
 ## Usage
-Open the following HTML link below and follow prompts
+Open the deployed URL above and follow prompts
 
-https://malickbax.github.io/robot-gladiators/
+## Tests
+- No test is required. Application is deployed and ready for usage.
 
 ## More Projects
 For more projects, please visit my [GitHub page](https://github.com/malickbax).
